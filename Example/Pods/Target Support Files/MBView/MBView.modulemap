@@ -1,0 +1,6 @@
+framework module MBView {
+  umbrella header "MBView-umbrella.h"
+
+  export *
+  module * { export * }
+}

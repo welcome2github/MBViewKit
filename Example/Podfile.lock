@@ -1,0 +1,16 @@
+PODS:
+  - MBView (0.1.0)
+
+DEPENDENCIES:
+  - MBView (from `../`)
+
+EXTERNAL SOURCES:
+  MBView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MBView: 88ea47c91441c87cadfc5c8c4d87fa810a22f8bc
+
+PODFILE CHECKSUM: e71ceb731f455208254865f04ac22e0279472b69
+
+COCOAPODS: 1.3.0.rc.1
